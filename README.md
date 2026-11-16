@@ -2,7 +2,6 @@
 
 Kişisel harcamaları kaydetmek, kategorilere ayırmak ve aylık bütçeyi takip etmek için geliştirilmiş, **React + Vite** ile yazılmış tek sayfalık bir web uygulaması. Tüm veriler tarayıcının **LocalStorage** alanında saklanır; hesap açmaya veya sunucuya gerek yoktur.
 
-Bu proje, *"Web Geliştirme; Yapay Zeka Proje Yönergesi"* kapsamında, planlamadan dokümantasyona kadar yapay zeka asistanı **Claude (Claude Code)** desteğiyle hazırlanmıştır.
 
 - 🔗 **GitHub Deposu:** GITHUB_LINKI_BURAYA
 - 🌐 **Canlı Demo:** CANLI_LINK_BURAYA
