@@ -3,8 +3,8 @@
 Kişisel harcamaları kaydetmek, kategorilere ayırmak ve aylık bütçeyi takip etmek için geliştirilmiş, **React + Vite** ile yazılmış tek sayfalık bir web uygulaması. Tüm veriler tarayıcının **LocalStorage** alanında saklanır; hesap açmaya veya sunucuya gerek yoktur.
 
 
-- 🔗 **GitHub Deposu:** GITHUB_LINKI_BURAYA
-- 🌐 **Canlı Demo:** CANLI_LINK_BURAYA
+- 🔗 **GitHub Deposu:** https://github.com/Bayraktarsss/SWPharcama-takip
+- 🌐 **Canlı Demo:** https://keen-centaur-62c50e.netlify.app/
 
 ---
 
@@ -56,7 +56,7 @@ Gereksinim: [Node.js](https://nodejs.org/) 20 veya üzeri.
 
 ```bash
 # 1. Depoyu klonla
-git clone GITHUB_LINKI_BURAYA
+git clone https://github.com/Bayraktarsss/SWPharcama-takip
 cd 3_Web_Projesi
 
 # 2. Bağımlılıkları yükle
